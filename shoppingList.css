@@ -1,0 +1,53 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: center;	
+}
+
+
+main {
+    	
+      }
+
+table {
+	width: 50%;
+	float: left;
+	text-align: center;
+	margin-left: 7em; 
+    margin-right: auto;
+
+}
+
+aside {
+		margin-right: 15%;
+		margin-top: .5em;
+		margin-left: 0%;
+    	float: right;
+    	text-align: center;
+      }
+
+/*
+checkbox | vari | object | name | object price
+
+loop checking each checkbox if it has been selected to be perchased 
+
+display an alert to printing what they purchased and how much their total is.
+
+later!!
+
+add money
+add a way to earn more money
+add an inventory
+add usability for user to make more money depending on how many items they have
+add usuability for user to make more money depending on which items they have
+
+add some minor stories
+
+*/
